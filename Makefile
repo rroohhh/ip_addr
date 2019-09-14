@@ -1,2 +1,2 @@
 all:
-	g++ -Wall ip_addr.cpp -o ip_addr
+	g++ -std=c++14 -Wall ip_addr.cpp -o ip_addr
